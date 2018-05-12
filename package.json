@@ -1,0 +1,22 @@
+{
+  "name": "express-nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirDadi/Express-Nodejs-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirDadi/Express-Nodejs-Tutorial/issues"
+  },
+  "homepage": "https://github.com/AmirDadi/Express-Nodejs-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
