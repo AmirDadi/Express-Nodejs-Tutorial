@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "phase1": "nodemon Phase1/app.js",
-    "phase2": "nodemon Phase2/app.js"
+    "phase1": "nodemon 'Phase1 - Simple Server/app.js'",
+    "phase2": "nodemon 'Phase2 - Middlewares/app.js'"
 
   },
   "repository": {
