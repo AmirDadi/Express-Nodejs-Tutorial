@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "phase1": "nodemon 'Phase1 - Simple Server/app.js'",
-    "phase2": "nodemon 'Phase2 - Middlewares/app.js'",
-    "phase3": "nodemon 'Phase3 - Templates (ejs)/app.js'"
+    "phase1": "nodemon 'Phase1-SimpleServer/app.js'",
+    "phase2": "nodemon 'Phase2-Middlewares/app.js'",
+    "phase3": "nodemon 'Phase3-Templates-ejs/app.js'"
   },
   "repository": {
     "type": "git",
