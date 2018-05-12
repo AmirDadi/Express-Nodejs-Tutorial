@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<link href=public/style.css type=text/css rel=stylesheet/>
+	</head>
+	<body>
+		<table>
+			<tr>
+				<td> <b> name </b> </td>
+				<td> <b> lastName </b> </td>
+			</tr>
+			<% for(let person of allNames) { %>
+			<tr>
+				<td> <%= person.firstName %> </td>
+				<td> <%= person.lastName %> </td>
+			</tr>
+			<% } %>
+		</table>
+	</body>
+</html>
